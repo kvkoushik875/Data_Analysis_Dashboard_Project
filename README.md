@@ -27,3 +27,14 @@ To analyze hotel booking and cancellation data using Microsoft Excel in order to
 
 # Dashboard
 <img width="1691" height="718" alt="Dashboard-Data Analysis Project" src="https://github.com/user-attachments/assets/f3579f1a-b76e-4bb1-ae14-e194d6a1685b" />
+
+# Project Insights
+- City Hotels experience a higher cancellation rate compared to Resort Hotels, indicating greater booking uncertainty in urban locations.
+- Bookings with longer lead times show a significantly higher likelihood of cancellation.
+- Reservations made without a deposit have the highest cancellation percentage, while refundable and non-refundable deposits reduce cancellations.
+- Transient customers contribute the majority of total bookings as well as cancellations.
+- Repeat guests are less likely to cancel compared to first-time guests, showing higher customer loyalty.
+- Seasonal trends reveal peak booking volumes during specific months, with cancellations also increasing during high-demand periods.
+
+# Final Conclusion
+- The Hotel Booking & Cancellation Analysis Dashboard successfully demonstrates how Microsoft Excel can be used to transform raw hotel booking data into valuable business insights. Through effective data cleaning, KPI calculation, and interactive visualization, the dashboard highlights key patterns in customer behavior and cancellation trends. This analysis enables hotel management to identify high-risk segments, optimize booking policies, and improve revenue management strategies. The project showcases practical data analytics skills, including data preparation, pivot table analysis, and dashboard design, making it suitable for data analyst roles, internships, and academic evaluation.
