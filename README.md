@@ -17,3 +17,13 @@ To analyze hotel booking and cancellation data using Microsoft Excel in order to
 - What are the top factors driving cancellations, and where can improvements be made?
 
 - Dashboard Interactions <a href="https://github.com/kvkoushik875/Data_Analysis_Dashboard_Project/blob/main/Dashboard-Data%20Analysis%20Project.png">Dashboard</a>
+
+# Process 
+- Collected and reviewed raw hotel booking data in Excel.
+- Cleaned data by handling missing values, duplicates, and inconsistencies.
+- Created calculated fields and KPIs using Excel formulas.
+- Built pivot tables and pivot charts for analysis.
+- Designed an interactive dashboard using slicers and formatting.
+
+# Dashboard
+<img width="1691" height="718" alt="Dashboard-Data Analysis Project" src="https://github.com/user-attachments/assets/f3579f1a-b76e-4bb1-ae14-e194d6a1685b" />
